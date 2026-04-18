@@ -1,4 +1,4 @@
-# Problem 11 - Type Alias in TypeScript
+# Problem 01 - Type Alias in TypeScript
 
 ---
 
