@@ -49,7 +49,7 @@ post.push("Elzero");
 
 ## ✅ Solution
 
-let post: readonly [number, string, boolean] = [100, "Title", true];
+let post: readonly [number, string, boolean] = [15, "Real", true];
 
 // Create Destructuring Here
 const [id, title, state] = post;

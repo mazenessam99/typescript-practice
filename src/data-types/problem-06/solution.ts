@@ -1,4 +1,4 @@
-let post: readonly [number,string,boolean]=[15,'real',true]
+let post: readonly [number,string,boolean]=[15,'Real',true]
 
 // post = [100, 200, "Title"]; // Error
 // post = ["Title", 100, true]; // Error
