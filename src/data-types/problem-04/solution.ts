@@ -1,0 +1,10 @@
+type res= "True" | "False"
+
+function yesOrNo(val: number) : res {
+    return val > 10 ? "True" : "False"
+}
+
+// Do Not Edit Here
+// console.log(yesOrNo("100")); // Error
+console.log(yesOrNo(30)); // True
+console.log(yesOrNo(8)); // False
